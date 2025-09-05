@@ -1,7 +1,8 @@
 # TDE1-problemas-estruturados
 
 LEIA-ME — TDE 1: Manipulação de Pilhas e Filas Dinâmicas (Java)
-
+FELIPE MELINK MAESTRI
+EDUARDO TEODORO MOREIRA DE SOUZA
 Este repositório contém a implementação em Java puro das atividades solicitadas no TDE 1 — Manipulação de Pilhas e Filas Dinâmicas, incluindo:
 1. Pilha com lista encadeada (métodos push, pop, imprime).
 2. Fila com lista encadeada (métodos insere, remove, imprime).
